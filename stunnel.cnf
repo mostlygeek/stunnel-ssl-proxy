@@ -1,0 +1,12 @@
+pid        = /tmp/stunnel.pid
+foreground = yes
+client     = no
+
+[https]
+cert    = ./stunnel.pem
+
+; port to listen on
+accept  = 3001
+
+; upstream port
+connect = 3000
