@@ -6,6 +6,10 @@ Using `stunnel` gives a lightweight, simple to configure SSL endpoint for doing 
 
 # Instructions 
 
+## TL;DR
+
+![too-lazy-to-read-3-steps](https://raw.github.com/mostlygeek/stunnel-ssl-proxy/master/screenshot.png)
+
 ## Step 1 - install stunnel
 
 * On OSX, use macports. `sudo port install stunnel` 
